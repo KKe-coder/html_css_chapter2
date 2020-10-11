@@ -9,4 +9,6 @@ html/cssファイルのため、PCのブラウザで実行できます。
 
 SHORTCUT：⌘+Shift+C キー
 
+
+
 ・MarkdownエディタとしてTyporaの導入
